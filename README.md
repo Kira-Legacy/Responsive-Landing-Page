@@ -1,2 +1,2 @@
 # T1-responsive-landing-page
-Task 1 for my internship program.
+Task 1 for my internship program as a web developer.
