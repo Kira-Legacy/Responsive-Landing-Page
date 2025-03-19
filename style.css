@@ -56,7 +56,17 @@ header {
     padding: 20px;
 }
 
-#home { background-color: #f0f0f0; }
-#about { background-color: #e0e0e0; }
-#services { background-color: #d0d0d0; }
-#contact { background-color: #c0c0c0; }
+#home { 
+    background-color: #f0f0f0; 
+}
+
+#about { 
+    background-color: #e0e0e0; 
+}
+#services { 
+    background-color: #d0d0d0; 
+}
+
+#contact { 
+    background-color: #c0c0c0; 
+}
