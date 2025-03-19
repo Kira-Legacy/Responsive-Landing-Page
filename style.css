@@ -4,7 +4,8 @@ body {
 }
 
 header {
-   position: fixed;;
+    position: fixed;
+    ;
     width: 100%;
 }
 
@@ -38,12 +39,14 @@ header {
     color: white;
     text-decoration: none;
     padding: 0px 15px;
-    transition: color 1.0s, background-color 1.0s; 
+    transition: color 1.0s, background-color 1.0s;
 }
+
 #navbar ul li a:hover {
     background-color: #000000;
     color: rgb(255, 175, 0);
 }
+
 .content-section {
     height: 100vh;
     display: flex;
@@ -51,23 +54,26 @@ header {
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 20px;}
-.content-section p{
+    padding: 20px;
+}
+
+.content-section p {
     text-align: justify;
     line-height: 25px;
 }
 
-#home { 
-    background-color: #ffffff; 
+#home {
+    background-color: #ffffff;
 }
 
-#about { 
-    background-color: #dedddd; 
-}
-#services { 
-    background-color: #b8b8b8; 
+#about {
+    background-color: #dedddd;
 }
 
-#contact { 
-    background-color: #a7a7a7; 
+#services {
+    background-color: #b8b8b8;
+}
+
+#contact {
+    background-color: #a7a7a7;
 }
