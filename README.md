@@ -22,3 +22,7 @@ Which will guide you to:
 
 - Bible quotes about Jesus being the saviour of the world respectively.
 
+Check out the websites homepage down below :)
+
+<img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Responsive_landing%20page.png" alt = "Responsive Landing">
+
