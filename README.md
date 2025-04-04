@@ -11,6 +11,7 @@ This is a website developed using HTML, CSS and JS. There is a navigation bar at
 - Miracles
 
 - Verses links.
+
 Which will guide you to:
 
 - A story of Jesus Christ
@@ -19,5 +20,5 @@ Which will guide you to:
 
 - Jesus Christ Miracles & Death and
 
-- Bible quotes about Jesus being the saviour of the world.
+- Bible quotes about Jesus being the saviour of the world respectively.
 
